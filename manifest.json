@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Adhan Prayer Times",
+  "short_name": "Adhan Prayer Times",
+  "version": "1.0.0",
+  "action": { "default_popup": "index.html" }
+}
