@@ -20,8 +20,8 @@ Drag the dist file into the chrome extention tab
 
 ## Preview of the app
 
-![On load preview](/PrayerTimes preview/Preview1.png)
+![On load preview](/images/Preview1.png )
 
-![Search preview](/PrayerTimes preview/Preview2.png)
+![Search preview](/images/Preview2.png)
 
-![Prayer times preview](/PrayerTimes preview/Preview3.png)
+![Prayer times preview](/images/Preview3.png)
