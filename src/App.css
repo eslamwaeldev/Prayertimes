@@ -1,0 +1,21 @@
+@tailwind base;
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+  height: 470px;
+  font-size: 1.2rem;
+  overflow: hidden;
+}
+
+html {
+  color: white;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80");
+  background-size: cover;
+  overflow: hidden;
+}
+@tailwind components;
+@tailwind utilities;
